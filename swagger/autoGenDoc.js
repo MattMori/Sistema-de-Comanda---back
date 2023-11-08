@@ -25,12 +25,12 @@ let doc = {
     },
     servers: [
         {
-            url: "http://localhost:3500/",
-            description: "Servidor localhost."
+            url: "https://sistema-de-comanda-back.vercel.app/",
+            description: "Servidor de produção."
         },
         {
-            url: "",
-            description: "Servidor de produção."
+            url: "http://localhost:3500/",
+            description: "Servidor localhost."
         }
         
     ],
